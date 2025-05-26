@@ -24,20 +24,7 @@
   <br/>
   <a href="https://github.com/HUB-ROOT">
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HUB-ROOT&theme=radical&hide_border=true" />
-  </a>
-
-  <!-- Most Used Languages (Wakatime Badge alternative) -->
-  <br/>
-  <a href="https://wakatime.com/@HUB-ROOT">
-    <img src="https://wakatime.com/share/@HUB-ROOT/12345678-abcd-1234-abcd-1234567890ab.svg" alt="WakaTime Stats" width="100%" />
-  </a>
-
-  <!-- GitHub Followers Badge -->
-  <br/>
-  <a href="https://github.com/HUB-ROOT?tab=followers">
-    <img src="https://img.shields.io/github/followers/HUB-ROOT?style=social" alt="GitHub followers" />
-  </a>
-
+  </a> 
 </p>
 
 
