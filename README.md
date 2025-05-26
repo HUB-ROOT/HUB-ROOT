@@ -1,24 +1,45 @@
 <p align="center">
-  <!-- GitHub Profile Trophy (dracula theme) -->
+
+  <!-- GitHub Profile Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=HUB-ROOT&theme=dracula&no-bg=true&no-frame=true&column=8&theme=tokyonight" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=HUB-ROOT&theme=radical&no-bg=true&no-frame=true&column=8" />
   </a>
 
-  <!-- GitHub Stats (tokyonight theme) -->
+  <!-- GitHub Stats -->
   <a href="https://github.com/HUB-ROOT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HUB-ROOT&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=tokyonight" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HUB-ROOT&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
   </a>
 
-  <!-- Top Languages (gruvbox theme) -->
+  <!-- Top Languages -->
   <a href="https://github.com/HUB-ROOT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&langs_count=10&theme=gruvbox" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&langs_count=10&theme=radical" />
   </a>
 
-  <!-- Contribution Streak (merko theme) -->
+  <!-- Contribution Streak -->
   <a href="https://github.com/HUB-ROOT">
-    <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=HUB-ROOT&theme=merko" />
+    <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=HUB-ROOT&theme=radical" />
   </a>
+
+  <!-- GitHub Activity Graph -->
+  <br/>
+  <a href="https://github.com/HUB-ROOT">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HUB-ROOT&theme=radical&hide_border=true" />
+  </a>
+
+  <!-- Most Used Languages (Wakatime Badge alternative) -->
+  <br/>
+  <a href="https://wakatime.com/@HUB-ROOT">
+    <img src="https://wakatime.com/share/@HUB-ROOT/12345678-abcd-1234-abcd-1234567890ab.svg" alt="WakaTime Stats" width="100%" />
+  </a>
+
+  <!-- GitHub Followers Badge -->
+  <br/>
+  <a href="https://github.com/HUB-ROOT?tab=followers">
+    <img src="https://img.shields.io/github/followers/HUB-ROOT?style=social" alt="GitHub followers" />
+  </a>
+
 </p>
+
 
 
 
