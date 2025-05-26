@@ -22,6 +22,7 @@
 
 
 
+
 I’m a dedicated Full Stack Software Developer and the CEO & President of CodeFlakes ICT. I’m currently working as a Software Developer on AFMIS – an enterprise-level financial management system at the Ministry of Finance, Department of the Treasury.
 
 With a strong technical background, I specialize in:
