@@ -2,28 +2,28 @@
 
   <!-- GitHub Profile Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=HUB-ROOT&theme=radical&no-bg=true&no-frame=true&column=8" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=HUB-ROOT&theme=light&no-bg=true&no-frame=true&column=8" />
   </a>
 
   <!-- GitHub Stats -->
   <a href="https://github.com/HUB-ROOT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HUB-ROOT&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HUB-ROOT&show_icons=true&count_private=true&include_all_commits=true&theme=light" />
   </a>
 
   <!-- Top Languages -->
   <a href="https://github.com/HUB-ROOT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&langs_count=10&theme=radical" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&langs_count=10&theme=light" />
   </a>
 
   <!-- Contribution Streak -->
   <a href="https://github.com/HUB-ROOT">
-    <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=HUB-ROOT&theme=radical" />
+    <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=HUB-ROOT&theme=light" />
   </a>
 
   <!-- GitHub Activity Graph -->
   <br/>
   <a href="https://github.com/HUB-ROOT">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HUB-ROOT&theme=radical&hide_border=true" />
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HUB-ROOT&theme=light&hide_border=true" />
   </a> 
 </p>
 
