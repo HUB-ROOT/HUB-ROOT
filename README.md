@@ -1,15 +1,25 @@
 <p align="center">
-  <a href="https://github.com/HUB-ROOT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HUB-ROOT&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&disable_animations=false&theme=radical" />
+  <!-- GitHub Profile Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=HUB-ROOT&theme=radical&no-bg=true&no-frame=true&column=8" />
   </a>
+
+  <!-- GitHub Stats -->
   <a href="https://github.com/HUB-ROOT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&langs_count=8&hide_title=false&theme=radical" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HUB-ROOT&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=radical" />
   </a>
-  <br/>
+
+  <!-- Top Languages -->
   <a href="https://github.com/HUB-ROOT">
-    <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=HUB-ROOT&theme=radical&hide_border=false" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&langs_count=10&theme=radical" />
+  </a>
+
+  <!-- Contribution Streak -->
+  <a href="https://github.com/HUB-ROOT">
+    <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=HUB-ROOT&theme=radical" />
   </a>
 </p>
+
 
 
 I’m a dedicated Full Stack Software Developer and the CEO & President of CodeFlakes ICT. I’m currently working as a Software Developer on AFMIS – an enterprise-level financial management system at the Ministry of Finance, Department of the Treasury.
