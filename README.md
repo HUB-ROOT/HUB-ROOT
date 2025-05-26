@@ -1,7 +1,16 @@
-<a href="#">
-  <img align="left" src="https://github-readme-stats-five-psi-47.vercel.app/api?username=HUB-ROOT&show_icons=true&count_private=true&theme=radical" width="100%" height="auto" />
-  <br><br>
-</a>
+<p align="center">
+  <a href="https://github.com/HUB-ROOT">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HUB-ROOT&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&disable_animations=false&theme=radical" />
+  </a>
+  <a href="https://github.com/HUB-ROOT">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&langs_count=8&hide_title=false&theme=radical" />
+  </a>
+  <br/>
+  <a href="https://github.com/HUB-ROOT">
+    <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=HUB-ROOT&theme=radical&hide_border=false" />
+  </a>
+</p>
+
 
 I’m a dedicated Full Stack Software Developer and the CEO & President of CodeFlakes ICT. I’m currently working as a Software Developer on AFMIS – an enterprise-level financial management system at the Ministry of Finance, Department of the Treasury.
 
