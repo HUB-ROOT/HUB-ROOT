@@ -1,7 +1,7 @@
 <p align="center">
   <!-- GitHub Profile Trophy (dracula theme) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=HUB-ROOT&theme=dracula&no-bg=true&no-frame=true&column=8&theme=merko"" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=HUB-ROOT&theme=dracula&no-bg=true&no-frame=true&column=8&theme=tokyonight" />
   </a>
 
   <!-- GitHub Stats (tokyonight theme) -->
