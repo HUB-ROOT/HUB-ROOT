@@ -3,4 +3,18 @@
   <br><br>
 </a>
 
- full stack software developer currently working on C# and JavaScript projects. I have also worked on PHP Laravel 
+I’m a dedicated Full Stack Software Developer and the CEO & President of CodeFlakes ICT. I’m currently working as a Software Developer on AFMIS – an enterprise-level financial management system at the Ministry of Finance, Department of the Treasury.
+
+With a strong technical background, I specialize in:
+
+C# (.NET) for building reliable and scalable backend systems
+
+JavaScript for creating dynamic and responsive frontends
+
+Flutter for cross-platform mobile applications
+
+PHP (Laravel) for developing modern, maintainable web apps
+
+I’ve successfully led and contributed to projects for both public sector institutions and private enterprises. My focus is on delivering clean, maintainable code and building systems that drive real impact.
+
+I'm passionate about technology, leadership, and building solutions that help organizations thrive.
