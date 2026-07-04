@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 HUB-ROOT</h1>
 <p align="center">
-  <b>Full Stack Software Developer | CEO @ CodeFlakes ICT</b>
+  <b>Full Stack Software Developer | CEO & President @ CodeFlakes ICT (2019–Present)</b>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td><b>🚀 Leading</b></td>
-    <td>CEO & President @ CodeFlakes ICT</td>
+    <td>CEO & President @ CodeFlakes ICT (2019–Present)</td>
   </tr>
 </table>
 
@@ -88,5 +88,5 @@
 ---
 
 <p align="center">
-  <i>✦ Building enterprise solutions that drive impact ✦</i>
+  <i>✦ Building enterprise solutions that drive impact since 2019 ✦</i>
 </p>
