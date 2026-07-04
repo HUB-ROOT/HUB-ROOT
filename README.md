@@ -1,50 +1,99 @@
+<h1 align="center">👨‍💻 HUB-ROOT</h1>
 <p align="center">
-
-  <!-- GitHub Profile Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=HUB-ROOT&theme=light&no-bg=true&no-frame=true&column=8" />
-  </a>
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/HUB-ROOT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HUB-ROOT&show_icons=true&count_private=true&include_all_commits=true&theme=light" />
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/HUB-ROOT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&langs_count=10&theme=light" />
-  </a>
-
-  <!-- Contribution Streak -->
-  <a href="https://github.com/HUB-ROOT">
-    <img width="99%" src="https://github-readme-streak-stats.herokuapp.com?user=HUB-ROOT&theme=light" />
-  </a>
-
-  <!-- GitHub Activity Graph -->
-  <br/>
-  <a href="https://github.com/HUB-ROOT">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HUB-ROOT&theme=light&hide_border=true" />
-  </a> 
+  <b>Full Stack Software Developer | CEO @ CodeFlakes ICT</b>
 </p>
 
+<p align="center">
+  <a href="https://github.com/HUB-ROOT">
+    <img src="https://komarev.com/ghpvc/?username=HUB-ROOT&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
+---
 
+## 🎯 Current Focus
 
+<table>
+  <tr>
+    <td><b>🏢 Role</b></td>
+    <td>Software Developer @ AFMIS — Ministry of Finance, Treasury Department</td>
+  </tr>
+  <tr>
+    <td><b>🚀 Leading</b></td>
+    <td>CEO & President @ CodeFlakes ICT</td>
+  </tr>
+  <tr>
+    <td><b>📊 Project</b></td>
+    <td><a href="https://diagram.codeflakesict.com/">Product Diagram Builder</a></td>
+  </tr>
+</table>
 
-I’m a dedicated Full Stack Software Developer and the CEO & President of CodeFlakes ICT. I’m currently working as a Software Developer on AFMIS – an enterprise-level financial management system at the Ministry of Finance, Department of the Treasury.
+---
 
-With a strong technical background, I specialize in:
+## ⚡ Tech Stack
 
-C# (.NET) for building reliable and scalable backend systems
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
-JavaScript for creating dynamic and responsive frontends
+---
 
-Flutter for cross-platform mobile applications
+## 📈 Activity Overview
 
-PHP (Laravel) for developing modern, maintainable web apps
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HUB-ROOT&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=HUB-ROOT&theme=default&hide_border=true" />
+</p>
 
-I’ve successfully led and contributed to projects for both public sector institutions and private enterprises. My focus is on delivering clean, maintainable code and building systems that drive real impact.
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&theme=default&hide_border=true" />
+</p>
 
-I'm passionate about technology, leadership, and building solutions that help organizations thrive.
+---
 
-# Product Diagram Builder: https://diagram.codeflakesict.com/
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HUB-ROOT&theme=flat&no-frame=true&margin-w=8&row=1" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=HUB-ROOT&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 💼 Portfolio Highlights
+
+- 🏛️ **AFMIS** — Enterprise financial management system for national treasury
+- 📱 **Cross-platform mobile apps** — Built with Flutter
+- 🌐 **Web platforms** — Powered by Laravel & .NET
+- 🔧 **System architecture** — Scalable, secure, maintainable solutions
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/HUB-ROOT">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://diagram.codeflakesict.com/">
+    <img src="https://img.shields.io/badge/Product_Diagram_Builder-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>✦ Building enterprise solutions that drive impact ✦</i>
+</p>
