@@ -137,7 +137,7 @@
 | **ORM** | Entity Framework Core, Dapper |
 | **Reporting** | JasperReports, JasperServer, Crystal Reports, RDLC |
 | **Architecture** | Clean Architecture, DDD, Microservices, CQRS |
-| **DevOps** | Git, CI/CD, Azure, AWS |
+| **DevOps** | Git, CI/CD |
 
 ---
 
