@@ -22,10 +22,6 @@
     <td><b>🚀 Leading</b></td>
     <td>CEO & President @ CodeFlakes ICT</td>
   </tr>
-  <tr>
-    <td><b>📊 Project</b></td>
-    <td><a href="https://diagram.codeflakesict.com/">Product Diagram Builder</a></td>
-  </tr>
 </table>
 
 ---
@@ -86,9 +82,6 @@
 <p align="center">
   <a href="https://github.com/HUB-ROOT">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://diagram.codeflakesict.com/">
-    <img src="https://img.shields.io/badge/Product_Diagram_Builder-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
