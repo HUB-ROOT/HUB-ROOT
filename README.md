@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQFlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
@@ -56,12 +57,12 @@
   <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/JasperReports-8B0000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-4B0082?style=for-the-badge&logo=architecture&logoColor=white" />
 </p>
 
 ### 📊 Reporting Tools
 <p align="center">
+  <img src="https://img.shields.io/badge/JasperReports-8B0000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JasperServer-8B0000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Crystal_Reports-0072C6?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/RDLC-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
@@ -69,7 +70,7 @@
 
 ---
 
-## 📈 Activity Overview
+## 📈 GitHub Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HUB-ROOT&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
@@ -77,37 +78,20 @@
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUB-ROOT&layout=compact&theme=default&hide_border=true&langs_count=10" />
 </p>
 
 ---
 
-## 📊 Advanced Contribution Analytics
+## 📊 Contribution Graph
 
-### 3D Contribution Calendar
-<p align="center">
-  <img width="100%" src="https://github-profile-3d-contrib.vercel.app/thumb?username=HUB-ROOT&theme=github" />
-</p>
-
-### Weekly Development Breakdown
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HUB-ROOT&theme=minimal&hide_border=true&bg_color=ffffff&color=000000&line=0e75b6&point=0e75b6&area=true&area_color=0e75b6" />
 </p>
 
-### Contribution Metrics
-<p align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/wakatime?username=HUB-ROOT&layout=compact&theme=default&hide_border=true" />
-</p>
-
-### Repository Activity
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HUB-ROOT&repo=AFMIS&theme=default&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HUB-ROOT&repo=CodeFlakes&theme=default&hide_border=true" />
-</p>
-
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HUB-ROOT&theme=flat&no-frame=true&margin-w=10&row=2&column=4" />
@@ -137,7 +121,7 @@
 | **ORM** | Entity Framework Core, Dapper |
 | **Reporting** | JasperReports, JasperServer, Crystal Reports, RDLC |
 | **Architecture** | Clean Architecture, DDD, Microservices, CQRS |
-| **DevOps** | Git, CI/CD |
+| **DevOps** | Git, CI/CD, Azure, AWS |
 
 ---
 
@@ -149,9 +133,6 @@
   </a>
   <a href="https://linkedin.com/in/HUB-ROOT">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
